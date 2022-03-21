@@ -50,7 +50,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: '487d2c26-7696-4fa9-b013-a06a0bb4353c', // data-app-id
+      appId: '29af84d7-ca03-4114-82ee-b54802aa3323', // data-app-id
       host: 'https://cusdis-roc.vercel.app', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis-roc.vercel.app/js/cusdis.es.js' // change this if you're using self-hosted version
     }
