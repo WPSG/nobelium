@@ -3,7 +3,7 @@ const BLOG = {
   author: 'ROC',
   email: process.env.EMAIL,
   link: 'https://www.rocplus.tk',
-  description: '认识自己|探索世界|好好生活',
+  description: '认识自己·探索世界·好好生活',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,10 +17,10 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://www.rocplus.tk',
+  socialLink: 'https://twitter.com/realRocPlus',
   seo: {
     keywords: ['ROC', 'Pensieve', 'Blog', 'Notion-Blog', 'Website', 'Notion', 'Nobelium'],
-    googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
+    googleSiteVerification: 'h6fh2xJGfR3zN__TWA6w6aeJeQJiAMepspBnQVjvKvA' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
