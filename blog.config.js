@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/realRocPlus',
+  socialLink: 'https://www.rocplus.tk',
   seo: {
     keywords: ['ROC', 'Pensieve', 'Blog', 'Notion-Blog', 'Website', 'Notion', 'Nobelium'],
     googleSiteVerification: 'h6fh2xJGfR3zN__TWA6w6aeJeQJiAMepspBnQVjvKvA' // Remove the value or replace it with your own google site verification code
